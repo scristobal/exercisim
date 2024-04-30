@@ -1,0 +1,20 @@
+{
+	"revision" : 0,
+	"rules" : 
+	[
+		{
+			"outputs" : [],
+			"primary-output" : "CMakeFiles/hello-world.dir/hello_world.f90.o",
+			"provides" : 
+			[
+				{
+					"compiled-module-path" : "hello_world.mod",
+					"is-interface" : true,
+					"logical-name" : "hello_world.mod"
+				}
+			],
+			"requires" : []
+		}
+	],
+	"version" : 0
+}

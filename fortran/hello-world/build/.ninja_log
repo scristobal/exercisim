@@ -1,0 +1,25 @@
+# ninja log v5
+1	9	1714504702143058993	CMakeFiles/hello-world.dir/hello_world_test.f90-pp.f90	fc611bffe85288ec
+1	9	1714504702143058993	CMakeFiles/hello-world.dir/hello_world_test.f90.o.ddi	fc611bffe85288ec
+0	9	1714504702143058993	CMakeFiles/hello-world.dir/hello_world.f90-pp.f90	40129827b3e6a1e2
+0	9	1714504702143058993	CMakeFiles/hello-world.dir/hello_world.f90.o.ddi	40129827b3e6a1e2
+1	9	1714504702143058993	testlib/CMakeFiles/TesterMain.dir/TesterMain.f90-pp.f90	ee5f36b3a8b16e3d
+1	9	1714504702143058993	testlib/CMakeFiles/TesterMain.dir/TesterMain.f90.o.ddi	ee5f36b3a8b16e3d
+9	14	1714504702147058996	testlib/CMakeFiles/TesterMain.dir/Fortran.dd	50255724c6955b1d
+9	14	1714504702147058996	/home/samu/repos/samu/exercism/fortran/hello-world/build/testlib/CMakeFiles/TesterMain.dir/FortranModules.json	50255724c6955b1d
+14	20	1714504702151058998	CMakeFiles/hello-world.dir/Fortran.dd	f6898308ed11ced
+14	20	1714504702151058998	/home/samu/repos/samu/exercism/fortran/hello-world/build/CMakeFiles/hello-world.dir/FortranModules.json	f6898308ed11ced
+20	35	1714504702163059004	CMakeFiles/hello-world.dir/hello_world.f90.o	9c48398d35e91b18
+20	35	1714504702163059004	hello_world.mod	9c48398d35e91b18
+15	64	1714504702195059020	testlib/CMakeFiles/TesterMain.dir/TesterMain.f90.o	cc9e630867da6648
+15	64	1714504702195059020	testlib/testermain.mod	cc9e630867da6648
+64	73	1714504702207059026	testlib/libTesterMain.a	8c7668cc532ab822
+64	77	1714504702211059027	CMakeFiles/hello-world.dir/hello_world_test.f90.o	91452e0449d3dfc9
+77	96	1714504702227059035	hello-world	e47020f072f70f55
+1	10	1714504746299075463	CMakeFiles/hello-world.dir/hello_world.f90-pp.f90	40129827b3e6a1e2
+1	10	1714504746299075463	CMakeFiles/hello-world.dir/hello_world.f90.o.ddi	40129827b3e6a1e2
+10	15	1714504746303075464	CMakeFiles/hello-world.dir/Fortran.dd	f6898308ed11ced
+10	15	1714504746303075464	/home/samu/repos/samu/exercism/fortran/hello-world/build/CMakeFiles/hello-world.dir/FortranModules.json	f6898308ed11ced
+15	26	1714504746295075462	CMakeFiles/hello-world.dir/hello_world.f90.o	9c48398d35e91b18
+15	26	1714504746295075462	hello_world.mod	9c48398d35e91b18
+26	46	1714504746335075472	hello-world	e47020f072f70f55

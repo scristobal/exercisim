@@ -1,0 +1,20 @@
+Start testing: Apr 30 21:23 CEST
+----------------------------------------------------------
+1/1 Testing: hello-world_test
+1/1 Test: hello-world_test
+Command: "/home/samu/repos/samu/exercism/fortran/hello-world/build_manually/hello-world"
+Directory: /home/samu/repos/samu/exercism/fortran/hello-world/build_manually
+"hello-world_test" start time: Apr 30 21:23 CEST
+Output:
+----------------------------------------------------------
+ Test summary: 0 of 1 tests failed
+STOP 0
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"hello-world_test" end time: Apr 30 21:23 CEST
+"hello-world_test" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: Apr 30 21:23 CEST

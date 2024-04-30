@@ -1,0 +1,20 @@
+{
+	"revision" : 0,
+	"rules" : 
+	[
+		{
+			"outputs" : [],
+			"primary-output" : "testlib/CMakeFiles/TesterMain.dir/TesterMain.f90.o",
+			"provides" : 
+			[
+				{
+					"compiled-module-path" : "testlib/testermain.mod",
+					"is-interface" : true,
+					"logical-name" : "testermain.mod"
+				}
+			],
+			"requires" : []
+		}
+	],
+	"version" : 0
+}

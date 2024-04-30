@@ -1,0 +1,12 @@
+{
+	"modules" : 
+	{
+		"testermain.mod" : 
+		{
+			"bmi" : "/home/samu/repos/samu/exercism/fortran/hello-world/build/testlib/testermain.mod",
+			"is-private" : false
+		}
+	},
+	"references" : {},
+	"usages" : {}
+}

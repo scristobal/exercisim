@@ -1,0 +1,4 @@
+ninja_dyndep_version = 1.0
+build testlib/CMakeFiles/TesterMain.dir/TesterMain.f90.o | testlib/testermain.mod: dyndep
+  restat = 1
+

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Site BuildName="Linux-unknown"
+	BuildStamp="20240430-1915-Experimental"
+	Name="nzxt-linux"
+	Generator="ctest-3.28.3"
+	CompilerName=""
+	CompilerVersion=""
+	OSName="Linux"
+	Hostname="nzxt-linux"
+	OSRelease="6.8.0-11-generic"
+	OSVersion="#11-Ubuntu SMP PREEMPT_DYNAMIC Wed Feb 14 00:29:05 UTC 2024"
+	OSPlatform="x86_64"
+	Is64Bits="1"
+	VendorString="GenuineIntel"
+	VendorID="Intel Corporation"
+	FamilyID="6"
+	ModelID="167"
+	ProcessorCacheSize="16384"
+	NumberOfLogicalCPU="16"
+	NumberOfPhysicalCPU="8"
+	TotalVirtualMemory="8191"
+	TotalPhysicalMemory="31952"
+	LogicalProcessorsPerPhysical="2"
+	ProcessorClockFrequency="4800.2"
+	>
+	<Testing>
+		<StartDateTime>Apr 30 21:17 CEST</StartDateTime>
+		<StartTestTime>1714504633</StartTestTime>
+		<TestList/>
+		<EndDateTime>Apr 30 21:17 CEST</EndDateTime>
+		<EndTestTime>1714504633</EndTestTime>
+		<ElapsedMinutes>0</ElapsedMinutes>
+	</Testing>
+</Site>

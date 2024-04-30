@@ -1,0 +1,6 @@
+ninja_dyndep_version = 1.0
+build CMakeFiles/hello-world.dir/hello_world.f90.o | hello_world.mod: dyndep
+  restat = 1
+
+build CMakeFiles/hello-world.dir/hello_world_test.f90.o: dyndep | hello_world.mod testlib/testermain.mod
+
