@@ -7,15 +7,13 @@
 char *reverse(const char *value) {
     int n = strlen(value);
 
-    char *r = malloc(n);
+    char *r = calloc(n, sizeof(char));
 
-    int j;
+    r += n;
 
-    for (j = 0; j < n; j++) {
-        r[j] = value[n - 1 - j];
+    while (*value) {
+        *(--r) = *(value++);
     }
-
-    r[n] = '\0';
 
     return r;
 }
